@@ -1,0 +1,494 @@
+[
+  {
+    "name":{
+      "first": "Thomas",
+      "middle": "B.",
+      "last": "Marsh"
+    },
+    "birth": "1800-11-01",
+    "death": "1865-01",
+    "ordained": "1835-04-15",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-04-25", 
+          "end": "1839-03-17"
+        }
+      ],
+      "president":{
+        "begin": "1835-04-25", 
+        "end": "1839-03-17"
+      }
+    }
+  },
+  {
+    "name":{
+      "first": "David",
+      "middle": "W.",
+      "last": "Patten"
+    },
+    "birth": "1799-11-14",
+    "death": "1838-10-25",
+    "ordained": "1835-02-15",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-02-15", 
+          "end": "1838-10-25"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "Brigham",
+      "middle": null,
+      "last": "Young"
+    },
+    "birth": "1801-06-01",
+    "death": "1877-08-29",
+    "ordained": "1835-02-14",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-02-14", 
+          "end": "1847-12-27"
+        }
+      ],
+      "president":{
+        "begin": "1835-02-14", 
+        "end": "1847-12-27"
+      }
+    },
+    "first presidency":{
+      "president":{
+        "begin": "1847-12-27", 
+        "end": "1877-08-29"
+      }
+    }
+  },
+  {
+    "name":{
+      "first": "Heber",
+      "middle": "C.",
+      "last": "Kimball"
+    },
+    "birth": "1801-06-14",
+    "death": "1868-06-22",
+    "ordained": "1825-02-14",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-02-14", 
+          "end": "1847-12-27"
+        }
+      ]
+    },
+    "first presidency":{
+      "first counselor":{
+        "begin": "1847-12-27", 
+        "end": "1868-06-22"
+      }
+    }
+  },
+  {
+    "name":{
+      "first": "Orson",
+      "middle": null,
+      "last": "Hyde"
+    },
+    "birth": "1805-01-08",
+    "death": "1878-11-28",
+    "ordained": "1835-02-15",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-02-15", 
+          "end": "1839-05-04"
+        },
+        {
+          "begin": "1839-06-27", 
+          "end": "1878-11-28"
+        }
+      ],
+      "president":{
+        "begin": "1847-12-27", 
+        "end": "1875-04-10"
+      }
+    }
+  },
+  {
+    "name":{
+      "first": "William",
+      "middle": "E.",
+      "last": "McLellin"
+    },
+    "birth": "1806-01-18",
+    "death": "1883-04-24",
+    "ordained": "1835-02-15",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-02-15", 
+          "end": "1838-05-11"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "Parley",
+      "middle": "P.",
+      "last": "Pratt"
+    },
+    "birth": "1807-04-12",
+    "death": "1857-05-13",
+    "ordained": "1835-02-21",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-02-21", 
+          "end": "1857-05-13"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "Luke",
+      "middle": null,
+      "last": "Johnson"
+    },
+    "birth": "1807-11-03",
+    "death": "1861-12-09",
+    "ordained": "1835-02-15",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-02-15", 
+          "end": "1837-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "William",
+      "middle": null,
+      "last": "Smith"
+    },
+    "birth": "1811-03-13",
+    "death": "1893-11-13",
+    "ordained": "1835-02-15",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-02-15", 
+          "end": "1845-10-06"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "Orson",
+      "middle": null,
+      "last": "Pratt"
+    },
+    "birth": "1811-09-19",
+    "death": "1881-10-03",
+    "ordained": "1835-04-26",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-04-26", 
+          "end": "1842-08-20"
+        },
+        {
+          "begin": "1843-01-20", 
+          "end": "1881-10-03"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "John",
+      "middle": "F.",
+      "last": "Boynton"
+    },
+    "birth": "1811-09-20",
+    "death": "1890-10-20",
+    "ordained": "1835-02-15",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-02-15", 
+          "end": "1837-09-03"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "Lyman",
+      "middle": "E.",
+      "last": "Johnson"
+    },
+    "birth": "1811-10-24",
+    "death": "1859-12-20",
+    "ordained": "1835-02-14",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1835-02-14", 
+          "end": "1837-09-03"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "John",
+      "middle": "E.",
+      "last": "Page"
+    },
+    "birth": "1799-02-25",
+    "death": "1867-10-14",
+    "ordained": "1838-12-19",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1838-12-19", 
+          "end": "1846-02-09"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "John",
+      "middle": null,
+      "last": "Taylor"
+    },
+    "birth": "1808-11-01",
+    "death": "1887-07-25",
+    "ordained": "1838-12-19",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1838-12-19", 
+          "end": "1887-07-25"
+        }
+      ],
+      "president":{
+        "begin": "1875-04-10", 
+          "end": "1887-07-25"
+      }
+    },
+    "first presidency":{
+      "president":{
+        "begin": "1880-10-10", 
+        "end": "1887-07-25"
+      }
+    }
+  },
+  {
+    "name":{
+      "first": "Wilford",
+      "middle": null,
+      "last": "Woodruff"
+    },
+    "birth": "1808-03-01",
+    "death": "1898-09-02",
+    "ordained": "1839-04-26",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1839-04-26", 
+          "end": "1889-04-07"
+        }
+      ],
+      "president":{
+        "begin": "1880-10-10", 
+          "end": "1889-04-07"
+      }
+    },
+    "first presidency":{
+      "president":{
+        "begin": "1889-04-07", 
+        "end": "1898-09-02"
+      }
+    }
+  },
+  {
+    "name":{
+      "first": "George",
+      "middle": "A.",
+      "last": "Smith"
+    },
+    "birth": "1817-06-26",
+    "death": "1875-09-01",
+    "ordained": "1839-04-26",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1839-04-26", 
+          "end": "1868-10-07"
+        }
+      ]
+    },
+    "first presidency":{
+      "first counsselor":{
+        "begin": "1868-10-07", 
+        "end": "1875-09-01"
+      }
+    }
+  },
+  {
+    "name":{
+      "first": "Williard",
+      "middle": null,
+      "last": "Richards"
+    },
+    "birth": "1804-06-24",
+    "death": "1854-03-11",
+    "ordained": "1840-04-14",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1840-04-14", 
+          "end": "1847-12-27"
+        }
+      ]
+    },
+    "first presidency":{
+      "second counsselor":{
+        "begin": "1847-12-27", 
+        "end": "1854-03-11"
+      }
+    }
+  },
+  {
+    "name":{
+      "first": "Lyman",
+      "middle": null,
+      "last": "Wight"
+    },
+    "birth": "1796-05-09",
+    "death": "1858-03-31",
+    "ordained": "1841-04-08",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1841-04-08", 
+          "end": "1848-12-03"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "Amasa",
+      "middle": null,
+      "last": "Lyman"
+    },
+    "birth": "1813-03-30",
+    "death": "1877-02-04",
+    "ordained": "1842-08-20",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1842-08-20", 
+          "end": "1843-01-20"
+        },
+        {
+          "begin": "1845-10-06", 
+          "end": "1867-10-06"
+        }
+      ]
+    },
+    "first presidency":{
+      "counsselor":{
+        "begin": "1843-02-04", 
+        "end": "1844-06-27"
+      }
+    }
+  },
+  {
+    "name":{
+      "first": "Ezra",
+      "middle": "T.",
+      "last": "Benson"
+    },
+    "birth": "1811-02-22",
+    "death": "1869-09-03",
+    "ordained": "1846-07-16",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1846-07-16", 
+          "end": "1869-09-03"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "Charles",
+      "middle": "C.",
+      "last": "Rich"
+    },
+    "birth": "1809-08-21",
+    "death": "1883-11-17",
+    "ordained": "1849-11-12",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1849-11-12", 
+          "end": "1883-11-17"
+        }
+      ]
+    }
+  },
+  {
+    "name":{
+      "first": "Lorenzo",
+      "middle": null,
+      "last": "Snow"
+    },
+    "birth": "1814-04-03",
+    "death": "1901-10-10",
+    "ordained": "1849-02-12",
+    "quorum":{
+      "member":[
+        {
+          "begin": "1849-02-12", 
+          "end": "1873-07-08"
+        },
+        {
+          "begin": "1877-08-29", 
+          "end": "1898-09-13"
+        }
+      ],
+      "president":{
+        "begin": "1889-04-07", 
+          "end": "1898-09-13"
+      }
+    },
+    "first presidency":{
+      "president":{
+        "begin": "1898-09-13", 
+        "end": "1901-10-10"
+      },
+      "counselor":{
+        "begin": "1873-06-08", 
+        "end": "1874-05-09"
+      },
+      "assistant counselor":{
+        "begin": "1874-05-09", 
+        "end": "1877-08-29"
+      }
+    }
+  }
+]
